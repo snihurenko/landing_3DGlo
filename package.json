@@ -1,0 +1,29 @@
+{
+  "name": "lesson30",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snihurenko/glo_JS15_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snihurenko/glo_JS15_project/issues"
+  },
+  "homepage": "https://github.com/snihurenko/glo_JS15_project#readme",
+  "devDependencies": {
+    "@babel/core": "^7.6.2",
+    "@babel/preset-env": "^7.6.2",
+    "babel-loader": "^8.0.6",
+    "path": "^0.12.7",
+    "webpack": "^4.41.0",
+    "webpack-cli": "^3.3.9",
+    "webpack-dev-server": "^3.8.1"
+  }
+}
